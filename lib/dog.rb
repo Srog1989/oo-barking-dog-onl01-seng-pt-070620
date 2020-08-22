@@ -7,7 +7,7 @@ class Dog
   def name
     @name
   end 
-  
+  #attr_accessor :name
   #Fido = Dog.new
   def bark
     puts "woof!"
